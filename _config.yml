@@ -2,7 +2,9 @@ title: La programmation robotique pour tous
 author: Louis-Daniel SAZGOT
 email: sagotdaniel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ceci est ma description.
+  La programmation robotique de 7 à 70 ans.
+  Arduino, Micro:bit, Thymio...
+  les bases de l'informatique.
 
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
